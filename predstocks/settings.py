@@ -25,7 +25,7 @@ SECRET_KEY = 'ogbg(fqso$puu1!nina-)*clb*5%e^_7-3ha#c!oetkbepao(('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://lstmstock.herokuapp.com/]
 
 
 # Application definition
